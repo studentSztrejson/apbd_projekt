@@ -192,6 +192,7 @@ class Program
         c2.Load(3000);
         c3.Load(4000);
         
+        // dodalem to dla proby giHub
         ship.LoadContainers(c1);
         ship.LoadContainers(c2);
         ship.LoadContainers(c3);
